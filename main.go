@@ -1,7 +1,7 @@
 package main
 
 import (
-	"github.com/lundin/reverser/reverse"
+	"github.com/lundin/cloudnativemtrl/reverse"
 	"fmt"
 )
 
